@@ -3,12 +3,11 @@
     padding-top: 50px;
     padding-bottom: 50px;
     width: 20%;
-  
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
     position: absolute;
-    background-color: rgb(34, 34, 34);
+    background-color: rgb(255, 255, 255);
     border :1px solid transparent;
     border-radius: 10px;
 }
@@ -18,7 +17,7 @@ a:hover{
 
 html
 {
-    background-color: rgb(6, 5, 19);
+    background-color: whitesmoke;
 }
 
 #signinBtn
