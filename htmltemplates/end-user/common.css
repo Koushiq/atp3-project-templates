@@ -8,3 +8,17 @@ body,html
     background-color: whitesmoke;
     
 }
+
+.notification-menu
+{
+    position: absolute;
+    border: 1px solid black; 
+    width: 400px; 
+    height: 400px;
+    z-index: 5;
+    right: 0;
+    margin-right: 80px;
+    margin-top:10px;
+    background-color: white;
+    display: none;
+}
