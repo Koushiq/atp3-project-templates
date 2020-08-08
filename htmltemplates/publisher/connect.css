@@ -1,0 +1,12 @@
+.propic-wrapper img
+{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+.profile-wrap
+{
+    background-color: rgba(255, 255, 255);
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
